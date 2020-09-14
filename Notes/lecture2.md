@@ -57,7 +57,7 @@ y = log<sub>b</sub> x = g(x) is the inverse function of y = b<sup>x</sup> = f(x)
 ### One-to-One Functions
 A functions f(x) is one-to-one if each value of f(x) corresponds to exactly one value of x, i.e. knowing the value of f(x) we can know which value of x was the input.
 
-They're also called [Injective Functions](https://en.wikipedia.org/wiki/Injective_function)
+They're also called [Injective Functions](https://en.wikipedia.org/wiki/Injective_function).
 
 #### Properties
 + f(x<sub>1</sub>) = f(x<sub>2</sub>) => x<sub>1</sub> = x<sub>2</sub>
