@@ -1,12 +1,13 @@
 # Functions Continued
 ## Kinds of Functions Continued
 ### Logarithmic Functions
-A function of the form y = log b x.
+A function of the form y = log<sub>b</sub> x.
 
 y = log <sub>b</sub> x <=> b<sup>y</sup>=x, where b is a contant.
 
-The domain of y = log<sub>b</sub> x in (0, infinity) = { x | x > 0 }
-The range of y log<sub>b</sub> x in (-infinity, infinity).
+The domain of y = log<sub>b</sub> x is (0, infinity) = { x | x > 0 }.
+
+The range of y = log<sub>b</sub> x is (-infinity, infinity).
 
 The graphs can be found [here](https://en.wikipedia.org/wiki/Logarithm).
 
@@ -22,7 +23,7 @@ All x values above are greater than zero, and m is a constant.
 Consider log<sub>b</sub> x = 1/4.
 
 Since b<sup>log<sub>b</sub>x</sup> = x.
-We get x = b<sup>log<sub>b</sup>x = b<sup>1/4</sup>
+We get x = b<sup>log<sub>b</sub>x</sup> = b<sup>1/4</sup>
 
 #### Example 2
 Consider 3<sup>2x+5</sup> = 7<sup>6x</sup>.
@@ -59,7 +60,7 @@ They're also called [Injective Functions](https://en.wikipedia.org/wiki/Injectiv
 A functions f(x) is one-to-one if each value of f(x) corresponds to exactly one value of x, i.e. knowing the value of f(x) we can know which value of x was the input.
 
 #### Properties
-+ f(x<sub>1</sub) = f(x<sub>2</sub>) => x<sub>1</sub> = x<sub>2</sub>
++ f(x<sub>1</sub>) = f(x<sub>2</sub>) => x<sub>1</sub> = x<sub>2</sub>
 
 #### Horizontal Line Test
 A function is one-to-one if there is no horizontal that passes through the graph of the function more than once.
@@ -74,15 +75,15 @@ f is not one-to-one as horizontal lines above 0 pass through the graph twice.
 I.e. f(2) = f(-2) = 4.
 
 ### Relating Inverse and One-to-One Functions
-If f(x) is one-to-one on its domain, then the inverse function f<sup>-1</sup>(x) of f(x) exists and is a function from the range of f(x) to the domain of f(x).
+If f(x) is one-to-one on its domain, then the inverse function f <sup>-1</sup>(x) of f(x) exists and is a function from the range of f(x) to the domain of f(x).
 
-Note that f<sup>-1</sup> != 1/f(x), 1/f(x) = (f(x))<sup>-1</sup>.
+Note that f <sup>-1</sup> != 1/f(x), 1/f(x) = (f(x))<sup>-1</sup>.
 
 #### How to Find the Inverse
-Since f(x) = 3x - 4 is one-to-one, the inverse f<sup>-1</sup>(x) exists.
+Since f(x) = 3x - 4 is one-to-one, the inverse f <sup>-1</sup>(x) exists.
 To find the inverse we perform the following steps.
 + Swap x and y, x = 3y - 4
-+ Solve the resulting equation, y = (x + 4)/3 = f<sup>-1</sup>(x)
++ Solve the resulting equation, y = (x + 4)/3 = f <sup>-1</sup>(x)
 
 This is very easy for linear equations, but for some functions it will be a lot harder.
 
