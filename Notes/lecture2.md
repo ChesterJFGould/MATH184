@@ -86,7 +86,3 @@ To find the inverse we perform the following steps.
 + Solve the resulting equation, y = (x + 4)/3 = f <sup>-1</sup>(x)
 
 This is very easy for linear equations, but for some functions it will be a lot harder.
-
-# Reading
-Read p14 - p20 for next class.
-We are doing limits next class.
