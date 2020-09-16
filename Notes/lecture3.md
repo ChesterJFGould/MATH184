@@ -4,8 +4,12 @@
 The graphs of y = f(x) and y = f <sup>-1</sup>(x) are symmetric about the line y = x.
 For example consider [this](https://www.desmos.com/calculator/kuf6zzj6hn) graph comparing e<sup>x</sup> and ln x.
 
+## Optimization of Quadratic Functions
+Optimization is the process of finding the input to a function that gives the greatest value out.
+The following wasn't explicitly said to be about optimization but it is pretty obvious that it is.
+
 #### Example 1
-The following is about a hypothetical company, who sells some amount q per week of a hypothetical product for p dollars.
+This example is about a hypothetical company, who sells some amount q per week of a hypothetical product for p dollars.
 
 (a) Find the linear demand equation for the price.
 Use the notation p for the unit price and q for the weekly demand.
