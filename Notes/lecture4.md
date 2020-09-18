@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 # Limits
 
 ## Average Velocity
@@ -47,7 +46,7 @@ Suppose that a function *y = f(x)* is defined for all *x* values near a number *
 If *f(x)* is arbitrarily close to a number *L* for all *x* sufficiently close to *a* but no equal to *a*, then L is called the limit of f(x) as *x* approaches *a*.
 
 We have special notation for specifying this concept of taking a number arbitrarily close to another which can be found [here](https://en.wikipedia.org/wiki/Limit_(mathematics)).
-The approximate notation I will be using is $\lim_{x \to 1} f(x) = L$.
+The approximate notation I will be using is lim<sub>x->1</sub> f(x) = L.
 
 ## Example 1
 Consider f(x) = x<sup>2</sup> + 1.
