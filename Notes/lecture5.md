@@ -63,6 +63,6 @@ Find lim<sub>x->2</sub>(x<sup>2</sup> - x - 2)/(x<sup>2</sup - 4).
 We cannot just immediatly plug in 2 for x as the denominator would be 0.
 Therefore we must factor the polynomials.
 
-lim<sub>x->2</sub>(x<sup>2</sup> - x - 2)/(x<sup>2</sup - 4) = ((x - 2)(x + 1))/((x - 2)(x + 2)) = (x + 1)/(x + 2).
+lim<sub>x->2</sub>(x<sup>2</sup> - x - 2)/(x<sup>2</sup> - 4) = ((x - 2)(x + 1))/((x - 2)(x + 2)) = (x + 1)/(x + 2).
 
 Now we can evaluate it to become 3/4.
