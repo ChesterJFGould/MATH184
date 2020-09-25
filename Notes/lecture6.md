@@ -5,17 +5,24 @@ Find lim<sub>x->0</sub> (sqrt(9 + x) - 3)/x
 
 
 lim<sub>x->0</sub> (sqrt(9 + x) - 3)/x = lim<sub>x->0</sub> ((sqrt(9 + x) - 3)(sqrt(9 + x) + 3))/(x(sqrt(9 + x) + 3))
+
 = lim<sub>x->0</sub> (x)/(x(srqt(9 + x) + 3))
+
 = lim<sub>x->0</sub> (1)/((srqt(9 + x) + 3))
+
 = lim<sub>x->0</sub> (1)/((srqt(9 + x) + 3))
+
 = 1/6
 
 ## Example 2
 Find lim<sub>x->-1</sub> (1/(3x + 1) + 1/2)/(x + 1)
 
 lim<sub>x->-1</sub> (1/(3x + 1) + 1/2)/(x + 1) = lim<sub>x->-1</sub> ((1/(3x + 1) + 1/2)*2(3x + 1))/((x + 1) * 2(3x + 1))
+
 = lim<sub>x->-1</sub> (3x + 3)/(2(x + 1)(3x + 1))
+
 = lim<sub>x->-1</sub> 3/(2(3x + 1))
+
 = -3/4
 
 # Continuity

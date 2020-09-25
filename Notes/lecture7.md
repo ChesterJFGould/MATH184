@@ -27,9 +27,9 @@ Therefore f(x) is continuous on (-infinity, 1).
 
 For the values of f(x) where x >= 1 we need to check the left endpoint as we are checking a half-closed interval where the left endpoint is closed.
 
-lim<sub>x->1<sup>+</sup><sub> f(x) = lim<sub>x->1<sup>+</sup><sub> (2x + 5) = 7
+lim<sub>x->1<sup>+</sup></sub> f(x) = lim<sub>x->1<sup>+</sup></sub> (2x + 5) = 7
 
-lim<sub>x->1<sup>-</sup><sub> f(x) = lim<sub>x->1<sup>+</sup><sub> (x<sup>3</sup> - 3) = -2
+lim<sub>x->1<sup>-</sup></sub> f(x) = lim<sub>x->1<sup>+</sup></sub> (x<sup>3</sup> - 3) = -2
 
 This means that f(x) has a discontinuity at x = 1.
 But f(x) is continuous from the right at x = 1 therefore f(x) is also continuous on [1, infinity).
@@ -62,7 +62,9 @@ We can use the Intermediate Value Theorem for this proof..
 let f(x) = x<sup>2018</sup> + 3x - 5
 
 f(0) = -5 < 0
+
 f(1) = 1<sup>2018</sup> + 3(1) - 5 < 0
+
 f(2) = 2<sup>2018</sup> + 3(2) - 5 > 0
 
 Since f(0) < 0 and f(2) > 0 and f(x) is continuous on [0, 2], there must a number c in (1, 2) such that f(c) = 0.
