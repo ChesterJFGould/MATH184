@@ -37,7 +37,7 @@ But f(x) is continuous from the right at x = 1 therefore f(x) is also continuous
 Therefore f(x) is continuous on the intervals (-infinity, 1) and [1, infinity).
 
 ## Example 3
-For what values of the constant c is [the function]() f(x) = {5x if x <= 2, cx<sup>2</sup> + 3x if x > 2.
+For what values of the constant c is [the function](https://www.desmos.com/calculator/p2l8wsobtj) f(x) = {5x if x <= 2, cx<sup>2</sup> + 3x if x > 2.
 
 lim<sub>x->2<sup>+</sup></sub> f(x) = lim<sub>x->2<sup>+</sup></sub> (cx<sup>2</sup> + 3x) = c2<sup>2</sup> + 3(2) = 4c + 6
 
