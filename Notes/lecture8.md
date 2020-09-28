@@ -9,7 +9,7 @@ The slope of the tangent line to the graph of y = f(x) at a point P(a, f(a)) is 
 lim<sub>x->a</sub> (f(x) - f(a))/(x - a)
 
 ## Definition
-The derivative of f(x) at a number a is denoted by f'(a), and is defined by the following.
+The derivative of f(x) at a number a is denoted by f '(a), and is defined by the following.
 
 f'(a) = lim<sub>x->a</sub> (f(x) - f(a))/(x - a)
 
